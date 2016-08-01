@@ -215,6 +215,7 @@
 * [开源软件架构](http://www.ituring.com.cn/book/1143)
 * [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
 * [GNU make 中文手册](http://www.yayu.org/book/gnu_make/)
+* [The Twelve-Factor App](http://12factor.net/zh_cn/)
 
 ### 设计模式
 
@@ -428,6 +429,7 @@
 * [Java开源实现及最佳实践](https://github.com/biezhi/jb)
 * [Java 编程要点](https://github.com/waylau/essential-java)
 * [Think Java](http://www.ituring.com.cn/minibook/69)
+* [Java 8 简明教程](https://github.com/wizardforcel/modern-java-zh)
 
 ### JavaScript
 
@@ -614,6 +616,7 @@
 * [Python 核心编程 第二版](https://wizardforcel.gitbooks.io/core-python-2e/content/) CPyUG译
 * [Python最佳实践指南](http://pythonguidecn.readthedocs.io/zh/latest/)
 * [Python 精要教程](https://www.gitbook.com/book/wizardforcel/python-essential-tutorial/details)
+* [Python 量化交易教程](https://www.gitbook.com/book/wizardforcel/python-quant-uqer/details)
 * Django
     * [Django 1.5 文档中文版](http://django-chinese-docs.readthedocs.org/en/latest/) 正在翻译中
     * [Diango 1.7 文档中文版](http://django-1-7-doc.coding.io/)  正在翻译中，目前只翻译了目录
